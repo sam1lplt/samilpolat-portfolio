@@ -19,16 +19,6 @@ const projects = [
   },
   {
     id: 2,
-    title: "LUMIEER",
-    subtitle: "Women's Fashion E-Commerce",
-    description: "Full e-commerce ecosystem setup. End-to-end digital infrastructure for a women's clothing brand.",
-    image: "/projects/lumieer-logo.png",
-    color: "#1E40AF",
-    tech: "Shopify",
-    tags: ["E-Commerce", "Fashion", "Full Setup"],
-  },
-  {
-    id: 3,
     title: "MIX FNDK",
     subtitle: "Premium E-Commerce Ecosystem",
     description: "Complete e-commerce ecosystem project. Digital transformation in the nuts & dried fruits industry.",
@@ -36,6 +26,16 @@ const projects = [
     color: "#166534",
     tech: "ikas",
     tags: ["E-Commerce", "Food", "Full Setup"],
+  },
+  {
+    id: 3,
+    title: "LUMIEER",
+    subtitle: "Women's Fashion E-Commerce",
+    description: "Full e-commerce ecosystem setup. End-to-end digital infrastructure for a women's clothing brand.",
+    image: "/projects/lumieer-logo.png",
+    color: "#1E40AF",
+    tech: "Shopify",
+    tags: ["E-Commerce", "Fashion", "Full Setup"],
   },
 ];
 
